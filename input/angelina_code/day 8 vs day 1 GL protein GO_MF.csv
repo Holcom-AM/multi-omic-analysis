@@ -1,0 +1,22 @@
+Term, -log10(padj),Gene Count
+"catalytic activity, acting on a nucleic acid",2.455649971,22
+"catalytic activity, acting on RNA",2.455649971,18
+carbohydrate derivative binding,2.046791048,66
+binding,2.020695149,145
+adenyl ribonucleotide binding,1.903672511,52
+ATP binding,1.903672511,52
+purine ribonucleotide binding,1.870354219,61
+purine ribonucleoside triphosphate binding,1.870354219,61
+ribonucleotide binding,1.767532866,61
+nucleic acid binding,1.668088719,45
+ion binding,1.634535783,82
+adenyl nucleotide binding,1.625452696,55
+anion binding,1.625452696,66
+nucleoside phosphate binding,1.583937722,68
+"catalytic activity, acting on a tRNA",1.583937722,11
+"ligase activity, forming carbon-oxygen bonds",1.583937722,11
+purine nucleotide binding,1.583937722,64
+aminoacyl-tRNA ligase activity,1.583937722,11
+nucleotide binding,1.583937722,68
+small molecule binding,1.446224326,71
+DNA binding,1.361683945,10

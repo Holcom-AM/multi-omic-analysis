@@ -1,0 +1,6 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Pyruvate metabolism",5,0.117,1,0.112,1,1
+"Citrate cycle (TCA cycle)",9,0.21,1,0.193,1,1
+"Tyrosine metabolism",9,0.21,1,0.193,1,1
+"Arginine biosynthesis",10,0.233,1,0.212,1,1
+"Alanine, aspartate and glutamate metabolism",14,0.326,1,0.284,1,1

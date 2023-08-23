@@ -1,0 +1,14 @@
+Term, -log10(padj),Gene Count
+small molecule binding,1.66590747,67
+anion binding,1.66590747,62
+carbohydrate derivative binding,1.66590747,59
+nucleotide binding,1.405941349,62
+binding,1.405941349,126
+ribonucleotide binding,1.405941349,54
+ion binding,1.405941349,73
+nucleoside phosphate binding,1.405941349,62
+purine ribonucleotide binding,1.327228582,53
+purine ribonucleoside triphosphate binding,1.327228582,53
+RNA helicase activity,1.31907864,6
+"ATP-dependent activity, acting on RNA",1.31907864,6
+purine nucleotide binding,1.31907864,57

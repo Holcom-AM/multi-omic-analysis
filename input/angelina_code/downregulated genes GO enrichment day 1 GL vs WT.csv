@@ -1,0 +1,14 @@
+Term, -log10(qvalue),Gene Count
+Structural constituent of ribosome,5.44,8
+Membrane-enclosed lumen,5.21,16
+Peptide biosynthetic process,3.41,9
+Catalytic step 2 spliceosome,2.32,3
+Protein localization to mitochondrion,1.48,2
+NADH dehydrogenase complex,1.48,2
+Vitamin B6 binding,1.48,2
+Organelle,1.48,39
+ATP synthesis coupled electron transport,1.31,2
+Endoplasmic reticulum subcompartment,1.27,5
+Nuclear outer membrane-endoplasmic reticulum membrane network,1.27,5
+Transporter complex,1.11,3
+Respirasome,1.11,2

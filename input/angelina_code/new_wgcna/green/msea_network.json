@@ -1,0 +1,49 @@
+{
+ "nodes": [
+ {
+ "id": "Pyruvate metabolism",
+"label": "Pyruvate metabolism",
+"size": 11.54701,
+"color": "#FF0000",
+"x": -1.560448,
+"y": 1.479655 
+},
+{
+ "id": "Citrate cycle (TCA cycle)",
+"label": "Citrate cycle (TCA cycle)",
+"size": 7.761905,
+"color": "#FF5500",
+"x": -0.6664194,
+"y": 1.515668 
+},
+{
+ "id": "Tyrosine metabolism",
+"label": "Tyrosine metabolism",
+"size": 7.761905,
+"color": "#FFAA00",
+"x": -1.01244,
+"y": -1.009537 
+},
+{
+ "id": "Arginine biosynthesis",
+"label": "Arginine biosynthesis",
+"size": 7.291845,
+"color": "#FFFF00",
+"x": 0.346013,
+"y": 0.05608067 
+},
+{
+ "id": "Alanine, aspartate and glutamate metabolism",
+"label": "Alanine, aspartate and glutamate metabolism",
+"size": 6.067485,
+"color": "#FFFF80",
+"x": -2.452202,
+"y": -0.0566362 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Pyruvate metabolism",
+"target": "Citrate cycle (TCA cycle)" 
+} ] 
+}
